@@ -1,2 +1,2 @@
 # web-dev-mern
-mern sack related projects
+mern stack related projects
